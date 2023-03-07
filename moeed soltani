@@ -1,0 +1,27 @@
+imports system.data
+
+string statementType = "swith";
+
+swith(statementType)
+
+{
+
+     case 1
+   
+console.writeline(are you married or single)
+     
+break;
+     
+no
+     
+     case 2
+     
+cosle.writeline(are you have childeren)
+
+breke;
+
+no \
+
+the end
+     
+     
